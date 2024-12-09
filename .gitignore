@@ -6,3 +6,4 @@ tests/data/*_output.tsv
 /*.tsv
 support/*
 .~lock.*
+.idea/*
